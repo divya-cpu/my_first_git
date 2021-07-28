@@ -7,3 +7,4 @@
 6. git commit -m "name"
 7. pwd
 8. mkdir
+9. git checkout -b branchname
